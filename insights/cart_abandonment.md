@@ -2,15 +2,15 @@
 
 ## Objective
 
-Identify visitors who added products to their cart but did not complete a purchase.
+Identify visitors who added items to their cart but did not complete a purchase.
 
 ## Findings
 
-- Several users showed purchase intent but did not convert.
-- Cart abandonment represents lost revenue opportunities.
+- Multiple users showed purchase intent but did not convert.
+- Cart abandonment represents a revenue recovery opportunity.
 
 ## Recommendation
 
-- Send abandoned cart reminders.
+- Send cart abandonment reminders.
 - Offer limited-time discounts.
 - Simplify the checkout process.
