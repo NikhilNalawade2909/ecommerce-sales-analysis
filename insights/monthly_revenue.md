@@ -2,14 +2,16 @@
 
 ## Objective
 
-Analyze revenue trends over time.
+Analyze revenue performance over time.
 
 ## Findings
 
-- Revenue fluctuates month to month.
-- Peak revenue periods indicate strong customer demand.
-- Seasonal patterns may exist.
+- Revenue changes month to month.
+- Certain months generate higher sales.
+- Trends can indicate seasonality and customer demand patterns.
 
 ## Recommendation
 
-Plan marketing campaigns around high-performing periods and investigate causes of revenue declines.
+- Schedule marketing campaigns before peak periods.
+- Investigate causes of revenue drops.
+- Forecast future sales using historical trends.
