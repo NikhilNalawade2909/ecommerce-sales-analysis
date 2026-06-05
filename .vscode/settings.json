@@ -14,6 +14,81 @@
       "username": "root",
       "password": "Nikhil@2909",
       "database": "ecommerce_sales"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": " Local MySQL",
+      "username": "root",
+      "password": "Nikhil@2909",
+      "database": " ecommerce_sales  "
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": " Local MySQL",
+      "database": "ecommerce-sales",
+      "username": "root",
+      "password": "Nikhil@2909"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "Local MySQL",
+      "username": "root",
+      "password": "Nikhil@2909",
+      "database": "ecommerce-sales"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "Local MySQL",
+      "username": "root",
+      "password": "Nikhil@2909",
+      "database": " ecommerce_sales"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "Local MySQL",
+      "username": "root",
+      "password": "Nikhil@2909",
+      "database": "ecommerce_sales_analysis"
     }
   ]
 }
